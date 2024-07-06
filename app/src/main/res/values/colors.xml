@@ -1,0 +1,20 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimaryLight">#BB86FC</color>
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextSecondary">#FFFFFF</color>
+
+
+    <!-- Elegant Theme Colors -->
+    <color name="elegantPrimary">#FFC107</color>
+    <color name="elegantPrimaryDark">#FFA000</color>
+    <color name="elegantAccent">#FF5722</color>
+    <color name="elegantBackground">#FFF8E1</color>
+    <color name="elegantTextColor">#6A1B9A</color>
+    <color name="elegantTextColorPrimary">#4A148C</color>
+
+    <color name="white_translucent">#80FFFFFF</color> <!-- 50%透明的白色 -->
+
+</resources>

@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@color/white_translucent" /> <!-- 按下时的背景颜色 -->
+    <item android:drawable="@color/white_translucent" /> <!-- 默认背景颜色 -->
+</selector>
